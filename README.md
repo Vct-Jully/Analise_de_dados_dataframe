@@ -1,4 +1,7 @@
 # Analise_de_dados_dataframe
+
+Observe no Google Colab : [ANÁLISE DATAFRAME](https://github.com/Vct-Jully/Analise_de_dados_dataframe/blob/main/Lista1.ipynb)
+
 Tratamento, manipulação , correção e análise de dados de um dataframe com python, pandas, matplotlib e sklearn.
 
 Conhecimentos utilizados:
